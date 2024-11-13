@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.dart linguist-language=Dart
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
